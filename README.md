@@ -13,3 +13,5 @@ validation: 0.80
 test: 0.79
 
 
+
+Follow this investigation on Medium: https://medium.com/@hugo_ribeiro/artificial-intelligence-one-step-at-a-time-b798f720a28d
