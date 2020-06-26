@@ -3,6 +3,7 @@ Natural Language Processing with Disaster Tweets
 
 Series of solutions for an introductory competition proposed on Kaggle (https://www.kaggle.com/c/nlp-getting-started/) where I have to build "a machine learning model that predicts which Tweets are about real disasters and which one's aren't". On this challenge, I had access to a dataset of 10,000 tweets hand classified.
 
+
 <b>Solution 1: </b>
 
 sklearn - LogisticRegression
